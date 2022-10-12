@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}Analog-Digital-Umsetzung}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Abtastung (Sampling)}{3}{}%
